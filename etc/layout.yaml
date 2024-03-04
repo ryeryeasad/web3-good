@@ -1,0 +1,6 @@
+
+pipelines:
+- name: TripleTrader
+  description: global parameter setting
+  account-type: dev
+#  account-type: production
